@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anabergese
-- 👀 I’m interested in ...be the best programer ever!
-- 🌱 I’m currently learning ...how to code and how to cook some tipes of asian receipes :)
-- 💞️ I’m looking to collaborate on ...projects?
-- 📫 How to reach me ...just, contact me :)
+- 👋 Hi, I’m @anabergese!!
+- 👀 I’m interested in ecology and sustainability, human nutrition and cooking, genetic, gender and social affairs, architecture, public Health and psychology 🤯
+- 🌱 I’m currently learning about algorithm bias and machine learning.
+- 💞️ I’m looking to collaborate on projects that fit with my interest and personal values.
+- 📫 How to know more about me: https://www.linkedin.com/in/anabergese/
 
 <!---
 anabergese/anabergese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
