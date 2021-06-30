@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anabergese!!
-- 👀 I’m interested in ecology and sustainability, human nutrition and cooking, genetic, gender and social affairs, architecture, public Health and psychology 🤯
+- 👋 Hi, I’m Ana Belén Bergese!
+- 👀 I’m interested in ecology and sustainability, human nutrition and cooking, genetic, gender and social affairs, architecture, public health and psychology 🤯
 - 🌱 I’m currently learning about algorithm bias and machine learning.
 - 💞️ I’m looking to collaborate on projects that fit with my interest and personal values.
 - 📫 How to know more about me: https://www.linkedin.com/in/anabergese/
