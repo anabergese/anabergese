@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ana Belén Bergese!
 - 👀 I’m interested in ecology and sustainability, human nutrition and cooking, genetic, gender and social affairs, architecture, public health and psychology 🤯
-- 🌱 I’m currently learning about algorithm bias and accessibility web design.
+- 🌱 I’m currently learning about React and accessibility web design.
 - 💞️ I’m looking to collaborate on projects that fit with my interests and personal values.
 - 📫 How to contact me: https://www.linkedin.com/in/anabergese/
 
